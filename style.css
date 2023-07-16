@@ -1,0 +1,16 @@
+/* Add your custom styles here */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  section {
+    text-align: center;
+  }
+  
+  .navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  /* Add more styles as needed for other sections, cards, etc. */
+  
